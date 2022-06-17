@@ -1,0 +1,18 @@
+========== First Class ========== 
+        | Row FCA | Row FCB |
+seats 0 | A Open  | B Open  |
+seats 1 | A Open  | B Open  |
+seats 2 | A Open  | B Open  |
+seats 3 | A Open  | B Open  |
+========== Coach ========== 
+        | Row A   | Row B   | Row C   | Row D   |
+seats 0 | A Open  | B Open  | C Open  | D Open  |
+seats 1 | A Open  | B Open  | C Open  | D Open  |
+seats 2 | A Open  | B Open  | C Open  | D Open  |
+seats 3 | A Open  | B Open  | C Open  | D Open  |
+seats 4 | A Open  | B Open  | C Open  | D Open  |
+seats 5 | A Open  | B Open  | C Open  | D Open  |
+seats 6 | A Open  | B Open  | C Open  | D Open  |
+seats 7 | A Open  | B Open  | C Open  | D Open  |
+seats 8 | A Open  | B Open  | C Open  | D Open  |
+seats 9 | A Open  | B Open  | C Open  | D Open  |
